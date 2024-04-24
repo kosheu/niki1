@@ -1,0 +1,14 @@
+.log{
+    width: 200px;
+    height: 200px;
+    color: blue;
+    background-color: blueviolet;
+    outline-color: red;
+}
+.t{
+    width: 100px;
+    height: 50px;
+    color: red;
+    background-color: darkblue;
+    border-color: chartreuse;
+}
